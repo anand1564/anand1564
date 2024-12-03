@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anand Pandey</h1>
 <h3 align="center">I am a web developer.</h3>
 
-- 🔭 I’m currently working on **projects in go**
+- 🔭 I’m currently working on **Full Stack Projects**
 
-- 🌱 I’m currently learning **Rust,Go**
+- 🌱 I’m currently learning **Web3**
 
 - 👯 I’m looking to collaborate on **web3-projects**
 
